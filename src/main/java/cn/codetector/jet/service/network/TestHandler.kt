@@ -1,7 +1,7 @@
 package cn.codetector.jet.service.network
 
-import cn.codetector.jet.jetcontroller.servicemanager.communication.packet.JsonPacket
 import cn.codetector.jet.jetsimplejson.JSONObject
+import cn.codetector.jet.std.network.packet.JsonPacket
 import io.netty.channel.ChannelHandlerContext
 import io.netty.channel.ChannelInboundHandlerAdapter
 
